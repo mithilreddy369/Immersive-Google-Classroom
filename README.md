@@ -3,11 +3,12 @@ In the rapidly evolving world of educational technology, Virtual Reality (VR) is
 
 Unity Screenshot
 
-![Screenshot 2024-06-28 091140](https://github.com/user-attachments/assets/ed9d593e-cec0-4aa3-b9af-93708a209541)
+![Screenshot 2024-06-28 091140](https://github.com/user-attachments/assets/ae9a921c-ad9d-4dc8-a002-62c08d53a943)
 
 Mobile App Screenshot
 
-![2024-08-24 23 19 52](https://github.com/user-attachments/assets/36f51d72-f13f-45dd-9a5a-022cd6546049)
+![photo_2024-06-28_09-16-30](https://github.com/user-attachments/assets/24500a28-6d57-4137-b385-17ff88526009)
+
 
 
 
